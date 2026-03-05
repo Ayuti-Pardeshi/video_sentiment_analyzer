@@ -17,7 +17,7 @@ def main():
         print("\nSentence:", result["sentence"])
         print("Sentiment:", result["label"])
         print("Confidence:", result["score"])
-
+#calling main function
 
 if __name__ == "__main__":
     main()
